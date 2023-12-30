@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Nuno Antunes Ribeiro"
   avatar           : "foo-bar-identity.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Assistant Professor"
+  location         : "Singapore"
+  employer         : "Singapore University of Technology and Design"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.pt/citations?user=cCAp5-wAAAAJ&hl=en"
+  email            : "nuno_ribeiro@sutd.edu.sg"
+  researchgate     : "https://www.researchgate.net/profile/Nuno-Antunes-Ribeiro"
   uri              :
   bitbucket        :
   codepen          :
