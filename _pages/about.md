@@ -16,3 +16,4 @@ Nuno Ribeiro has received his Ph.D. in Transport Systems from the University of 
 
 Nuno Ribeiro is a principal investigator in the Aviation Studies Institute in SUTD. He is currently working on 3 funded research projects in collaboration with CAAS on “Airfield Management and Economics” ; “Resilient Airspace Operations for Changi Airport” ; “Rapid Evaluation Tools Within the Intelligent Optimisation Platform”.
 
+![Research Image](/images/ASIPicture.jpg)
