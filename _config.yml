@@ -82,11 +82,9 @@ analytics:
 author:
   name             : "Nuno Antunes Ribeiro"
   avatar           : "foo-bar-identity.jpg"
-  bio1             : "Assistant Professor"
-  bio2             : "Engineering Systems and Design Pillar"
-  bio3             : "Singapore University of Technology and Design"
+  bio              : "Assistant Professor, Engineering Systems and Design Pillar, Singapore University of Technology and Design "
   location         : 
-  employer         : 
+  employer         : SUTD
   pubmed           :
   googlescholar    : "https://scholar.google.pt/citations?user=cCAp5-wAAAAJ&hl=en"
   email            : "nuno_ribeiro@sutd.edu.sg"
