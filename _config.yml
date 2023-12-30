@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nuno Antunes Ribeiro"
-  avatar           : "bio-photo.jpg"
+  avatar           : "foo-bar-identity.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
