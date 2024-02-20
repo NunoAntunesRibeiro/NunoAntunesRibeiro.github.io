@@ -7,6 +7,8 @@ author_profile: true
 
 <h3>Journal Publications</h3>
 
+- [Pouget, L., Ribeiro, N. A., Odoni, A. R., & Antunes, A. P. (2023). How do airlines react to slot displacements? Evidence from a major airport. Journal of Air Transport Management, 106, 102300.](https://www.sciencedirect.com/science/article/pii/S0969699722001193)
+
 - [Birolini, S., Jacquillat, A., Schmedeman, P., & Ribeiro, N. (2023). Passenger-Centric Slot Allocation at Schedule-Coordinated Airports. Transportation Science, 57(1), 4-26.](https://pubsonline.informs.org/doi/full/10.1287/trsc.2022.1165)
   
 -   [Jorge, D., Ribeiro, N. A., & Antunes, A. P. (2021). Towards a decision-support tool for airport slot allocation: Application to Guarulhos (Sao Paulo, Brazil). Journal of Air Transport Management, 93, 102048.](https://www.sciencedirect.com/science/article/pii/S0969699721000314)
