@@ -21,5 +21,18 @@ You can find my [CV](https://nunoantunesribeiro.github.io/files/CV_NunoAntunesRi
 
 <h3>News</h3>
 
+- <b>October 2023:</b> PhD student Wayne Ng earns the Best Student Presentation award at the INFORMS Annual Meeting 2023 in Phoenix for his research titled The Terminal Airspace Sequencing and Scheduling Problem (TASSP):An Optimization Approach
+
+- b>July 2023:</b> Asst. Prof. Nuno Ribeiro delivers a presentation at the 26th ATRS World Conference in Kobe, on "Hub Competition and Demand Modeling in Long-haul Aviation Markets."
+
+- b>July 2023:</b> PhD student Wayne Ng delivers a presentation at the 26th ATRS World Conference in Kobe, on "Strategic Optimization Model for Resilient Airspaces"
+
+- b>June 2023:</b> Asst. Prof. Nuno Ribeiro delivers a presentation at the GARS Workshop on slot allocation, discussing "Improving Slot Allocation and Capacity Declaration through Optimization" at the University of Applied Sciences Amsterdam.
+
+- <b>June 2023:</b> Asst. Prof. Nuno Ribeiro presents a seminar talk on Slot allocation problems in hub airports" to the Air Transport and Operations research group at the Faculty of Aerospace Engineering, TU Delft.
+
+- <b>January 2023:</b> New Paper Published in Journal of Air Transport Management [How do airlines react to slot displacements? Evidence from a major airport](https://www.sciencedirect.com/science/article/pii/S0969699722001193)
+
+- <b>January 2023:</b> New Paper Published in Transportation Science [Passenger-Centric Slot Allocation at Schedule-Coordinated Airports](https://pubsonline.informs.org/doi/full/10.1287/trsc.2022.1165)
 
 ![Research Image](/images/ASIPicture.jpg)
