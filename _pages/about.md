@@ -27,9 +27,9 @@ You can find my [CV](https://nunoantunesribeiro.github.io/files/CV_NunoAntunesRi
 
 - <b>July 2023:</b> PhD student Wayne Ng delivers a presentation at the 26th ATRS World Conference in Kobe, on "Strategic Optimization Model for Resilient Airspaces"
 
-- <b>June 2023:</b> Asst. Prof. Nuno Ribeiro delivers a presentation at the GARS Workshop on slot allocation, discussing "Improving Slot Allocation and Capacity Declaration through Optimization" at the University of Applied Sciences Amsterdam.
+- <b>June 2023:</b> Asst. Prof. Nuno Ribeiro delivers a presentation at the GARS Workshop on Slot Allocation, on "Improving Slot Allocation and Capacity Declaration through Optimization" - University of Applied Sciences Amsterdam.
 
-- <b>June 2023:</b> Asst. Prof. Nuno Ribeiro presents a seminar talk on Slot allocation problems in hub airports" to the Air Transport and Operations research group at the Faculty of Aerospace Engineering, TU Delft.
+- <b>June 2023:</b> Asst. Prof. Nuno Ribeiro presents a seminar talk at TU Delft on "Slot allocation problems in hub airports" to the Air Transport and Operations research group at the Faculty of Aerospace Engineering.
 
 - <b>January 2023:</b> New Paper Published in Journal of Air Transport Management [How do airlines react to slot displacements? Evidence from a major airport](https://www.sciencedirect.com/science/article/pii/S0969699722001193)
 
