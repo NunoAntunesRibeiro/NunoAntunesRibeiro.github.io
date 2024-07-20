@@ -33,6 +33,10 @@ You can find my [CV](https://nunoantunesribeiro.github.io/files/CV_NunoAntunesRi
 
 - <b>May 2024:</b> Asst. Profs. Nuno Ribeiro and Karthyek Murthy have been awarded by the [Institute of Industrial and Systems Engineers](https://www.iise.org/Details.aspx?id=47679) for their excellence in teaching Modeling & Simulation courses, specifically the 40.015 Simulation Modelling and Analysis course at SUTD.
 
+- <b>March 2024:</b> PhD student Wayne Ng delivers a presentation at the [5th SoAR Symposium](https://soarsymposium.github.io/soarSymposium/) in Luxembourg, on "Terminal Airspace Scheduling Optimization with Environmental Considerations"
+
+- <b>March 2024:</b> PhD student Wayne Ng is visiting the [University of Bergamo](https://en.unibg.it/) for an external research period as part of his PhD program, under the framework of a Memorandum of Understanding signed by both institutions (SUTD and UniBG). During this time, Wayne will collaborate closely with Prof. [Sebastian Birolini](https://scholar.google.com/citations?user=khXUJ0UAAAAJ&hl=en) on research focused on optimizing terminal airspace operations to minimize fuel consumption and CO2 emissions.
+
 - <b>February 2024:</b> The work carried out as part of the project on [Resilient Airspace Operations for Singapore](https://asi.sutd.edu.sg/research-projects/resilient-airspace/) have been shortlisted for the prestigious [ATM Awards 2023](https://www.airtrafficmanagement.net/article/atm-awards-2023-shortlist), standing alongside renowned industry entities such as Airways (New Zealand), ENAIR (Spain), ENAV (Italy), Eurocontrol Network Manager (Belgium) and the European Satellite Services Provider (France and Spain).
 
 - <b>October 2023:</b> PhD student Wayne Ng earns the [Best Student Presentation award](https://connect.informs.org/aas/awards/presentation-competition) at the INFORMS Annual Meeting 2023 in Phoenix for his research titled The Terminal Airspace Sequencing and Scheduling Problem (TASSP):An Optimization Approach
