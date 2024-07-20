@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "40.015 Simulation Modeling and Analysis"
 permalink: /simulationcourse/
 author_profile: true
 ---
