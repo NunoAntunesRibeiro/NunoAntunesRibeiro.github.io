@@ -25,13 +25,13 @@ author_profile: true
 
 - [López-Ramos, F., Benita, F., & Ribeiro, N. A. (2024). A Novel Decision Support Framework for Multi-Objective Aircraft Routing Problem.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4704984)
 
-- [Ribeiro, N. A., Ng, W., Tay, J., & Birolini, (2024) S. Delay Predictive Analytics for Airport Capacity Management.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4679158)
+- [Ribeiro, N. A., Ng, W., Tay, J., & Birolini, S. (2024) Delay Predictive Analytics for Airport Capacity Management.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4679158)
 
 <h3>Conference Papers</h3>
 
-- [Suvittawat, N., & Ribeiro, N. A. Aircraft Surface Defect Inspection System Using AI with UAVs (2024). In Proceedings of the International Conference on Research in Air Transportation (ICRAT)](https://drive.google.com/file/d/1j53PduA_LlFYOBL6OkvMRgEX1CbtyK0T/view?usp=sharing)
+- [Suvittawat, N., & Ribeiro, N. A. (2024) Aircraft Surface Defect Inspection System Using AI with UAVs. In Proceedings of the International Conference on Research in Air Transportation (ICRAT)](https://drive.google.com/file/d/1j53PduA_LlFYOBL6OkvMRgEX1CbtyK0T/view?usp=sharing)
 
-- [Ng, W., & Ribeiro, N. A. A Modeling Framework for Rapid Assessment of Terminal Airspace Configurations and Planning Scenarios (2024). In Proceedings of the International Conference on Research in Air Transportation (ICRAT)](https://drive.google.com/file/d/1gbHi10XrsB8XWhdmeUP8n_XtKzqTGj48/view?usp=sharing)
+- [Ng, W., & Ribeiro, N. A. (2024) A Modeling Framework for Rapid Assessment of Terminal Airspace Configurations and Planning Scenarios. In Proceedings of the International Conference on Research in Air Transportation (ICRAT)](https://drive.google.com/file/d/1gbHi10XrsB8XWhdmeUP8n_XtKzqTGj48/view?usp=sharing)
 
 - [Tralhao, L., Sousa, N., Ribeiro, N., & Coutinho-Rodrigues, J. (2015). Design of bicycling suitability maps for hilly cities. In Proceedings of the Institution of Civil Engineers-Municipal Engineer (Vol. 168, No. 2, pp. 96-105). Thomas Telford Ltd.](https://www.icevirtuallibrary.com/doi/abs/10.1680/muen.14.00009)
 
