@@ -29,5 +29,5 @@ The SMA project takes the students through a wholesome journey beginning from ch
 
 - Projects 2024 --- see [Videos](https://esd.sutd.edu.sg/40-015-simulation-modelling-and-analysis-projects-spring-2024/)
 - Projects 2023 --- see [Videos](https://esd.sutd.edu.sg/40-015-simulation-modelling-and-analysis-projects-spring-2023/)
-- Projects 2021 --- see [Videos](https://esd.sutd.edu.sg/40-015-simulation-modelling-and-analysis-projects-spring-2021/)
-- Projects 2020 --- see [Videos](https://esd.sutd.edu.sg/40-015-simulation-modelling-and-analysis-projects-spring-2020/) 
+- Projects 2021 --- see [Videos](https://esd.sutd.edu.sg/40-015-simulation-modelling-and-analysis-projects-fall-2021/)
+- Projects 2020 --- see [Videos](https://esd.sutd.edu.sg/simulation-modelling-and-analysis-course-project-showcase-2020/40-015-simulation-modelling-and-analysis-projects-fall-2020/) 
