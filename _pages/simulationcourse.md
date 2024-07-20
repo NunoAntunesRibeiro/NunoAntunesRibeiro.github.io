@@ -27,7 +27,7 @@ Part II: Monte Carlo simulation, handling uncertainty in simulation input and ou
 
 The SMA project takes the students through a wholesome journey beginning from choosing a real-world system for their study. They then work intensely in teams collecting data, building a suitable simulation model, offering critical comparison with competing design alternatives, etc. based on the needs of their project. A flexible grading scheme, which recognises different project choices may entail different efforts in the above steps, empower students to give a real go at the problem of their choice without having worry about grades. 
 
-- Projects 2024 --- see [Videos](https://esd.sutd.edu.sg/40-015-simulation-modelling-and-analysis-projects-spring-2023/)
+- Projects 2024 --- see [Videos](https://esd.sutd.edu.sg/40-015-simulation-modelling-and-analysis-projects-spring-2024/)
 - Projects 2023 --- see [Videos](https://esd.sutd.edu.sg/40-015-simulation-modelling-and-analysis-projects-spring-2023/)
-- Projects 2022 --- see [Videos](https://esd.sutd.edu.sg/40-015-simulation-modelling-and-analysis-projects-spring-2023/)
-- Projects 2021 --- see [Videos](https://esd.sutd.edu.sg/40-015-simulation-modelling-and-analysis-projects-spring-2023/) 
+- Projects 2021 --- see [Videos](https://esd.sutd.edu.sg/40-015-simulation-modelling-and-analysis-projects-spring-2021/)
+- Projects 2020 --- see [Videos](https://esd.sutd.edu.sg/40-015-simulation-modelling-and-analysis-projects-spring-2020/) 
