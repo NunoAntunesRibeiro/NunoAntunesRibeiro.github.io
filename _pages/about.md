@@ -10,7 +10,7 @@ redirect_from:
 
 <h3>About Me</h3>
 
-I currently hold the position of Assistant Professor within the [Engineering Systems and Design Pillar](https://esd.sutd.edu.sg/people/faculty/nuno-ribeiro/) (ESD) at [Singapore University of Technology and Design](https://sutd.edu.sg/) (SUTD). Additionally, I serve as a Principal Investigator at the [Aviation Studies Institute](https://asi.sutd.edu.sg/) in SUTD, where I am engaged in diverse research projects in collaboration with the Civil Aviation Authority of Singapore (for more details, please refer to my [Portfolio](https://nunoantunesribeiro.github.io/portfolio/)).
+I currently hold the position of Assistant Professor within the [Engineering Systems and Design Pillar](https://esd.sutd.edu.sg/people/faculty/nuno-ribeiro/) (ESD) at [Singapore University of Technology and Design](https://sutd.edu.sg/) (SUTD). Additionally, I serve as Deputy Director at the [Aviation Studies Institute](https://asi.sutd.edu.sg/) in SUTD, where I am engaged in diverse research projects in collaboration with the Civil Aviation Authority of Singapore (for more details, please refer to my [Portfolio](https://nunoantunesribeiro.github.io/portfolio/)).
 
 Before joining SUTD, I pursued my doctoral studies in Transport Systems at the University of Coimbra in Portugal. During this period, I also undertook visiting research appointments at renowned institutions such as MIT and Carnegie Mellon University.
 
