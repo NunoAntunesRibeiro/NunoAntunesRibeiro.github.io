@@ -31,6 +31,10 @@ author_profile: true
 
 <h3>White Papers</h3>
 
+- [A Future with Autonomous Urban Air Mobility (2024)](https://asi.sutd.edu.sg/white-papers/asi-white-paper-a-future-with-autonomous-urban-air-mobility/)
+
+- [Airport-Rail Inter-modality in Southeast Asia – Opportunities and the Impact of High-Speed Rail (2024)](https://asi.sutd.edu.sg/white-papers/asi-white-paper-airport-rail-inter-modality-in-southeast-asia-opportunities-and-the-impact-of-high-speed-rail/)
+
 - [The Future of Super Short-Haul Air Transport Southeast Asia (2024)](https://asi.sutd.edu.sg/white-papers/asi-white-paper-the-future-of-super-short-haul-air-travel-in-southeast-asia/)
 
 - [Slot allocation amidst COVID-19 recovery (2022)](https://asi.sutd.edu.sg/white-papers/asi-white-paper-slots/)
