@@ -21,7 +21,7 @@ You can find my [CV](https://nunoantunesribeiro.github.io/files/CV_NunoAntunesRi
 
 <h3>News</h3>
 
-
+- <b>July 2024:</b> Assistant Professor Nuno Ribeiro and PhD student Nutchanon Suvittawat presented two research papers at the 11th International Conference on Research in Air Transportation (ICRAT). The papers, titled ["A Modeling Framework for Rapid Assessment of Terminal Airspace Configurations and Planning Scenarios"](https://drive.google.com/file/d/1gbHi10XrsB8XWhdmeUP8n_XtKzqTGj48/view?usp=sharing) and ["Aircraft Surface Defect Inspection System Using AI with UAVs"](https://drive.google.com/file/d/1j53PduA_LlFYOBL6OkvMRgEX1CbtyK0T/view?usp=sharing), were both accepted for the conference proceedings.
 
 - <b>June 2024:</b> Asst. Prof. Nuno Ribeiro visited the City University of Hong Kong (CityU) and the Hong Kong Polytechnic University (PolyU). During his visit, he delivered two seminar talks entitled “From Predictive to Prescriptive Analytics in Airport Capacity Management” [link](https://www.polyu.edu.hk/aae/news-and-events/event/2024/6/20---research-seminar---dr-nuno-ribeiro/) and [link](https://www.sdsc.cityu.edu.hk/news-event/seminars/predictive-prescriptive-analytics-airport-capacity-management). These visits have opened up potential collaborative research topics and opportunities for the exchange of students and researchers.
 
