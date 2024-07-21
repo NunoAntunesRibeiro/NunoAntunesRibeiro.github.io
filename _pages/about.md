@@ -54,3 +54,5 @@ You can find my [CV](https://nunoantunesribeiro.github.io/files/CV_NunoAntunesRi
 - <b>January 2023:</b> New Paper Published in Transportation Science [Passenger-Centric Slot Allocation at Schedule-Coordinated Airports](https://pubsonline.informs.org/doi/full/10.1287/trsc.2022.1165)
 
 ![Research Image](/images/ASIPicture.jpg)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
