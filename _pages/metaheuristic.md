@@ -13,39 +13,39 @@ Real-world optimisation problems are often nonlinear, multimodal and with variou
 
 -Lecture 1: Introduction to Metaheuristic Optimization --- [slides](https://nunoantunesribeiro.github.io/files/Lec1.pdf)
 
--Lecture 2: Exact Methods of Optimization --- [slides]
+-Lecture 2: Exact Methods of Optimization --- [slides](https://nunoantunesribeiro.github.io/files/Lec2.pdf)
 
--Lecture 3: Local Search --- [slides]
+-Lecture 3: Local Search --- [slides](https://nunoantunesribeiro.github.io/files/Lec3.pdf)
 
--Lecture 4: Solution Enconding & Move Operators --- [slides]
+-Lecture 4: Solution Enconding & Move Operators --- [slides](https://nunoantunesribeiro.github.io/files/Lec4.pdf)
 
--Lecture 5: Simulated Annealing --- [slides]
+-Lecture 5: Simulated Annealing --- [slides](https://nunoantunesribeiro.github.io/files/Lec5.pdf)
 
--Lecture 6: Variable Neighborhood Search & Greedy Heuristics --- [slides]
+-Lecture 6: Variable Neighborhood Search & Greedy Heuristics --- [slides](https://nunoantunesribeiro.github.io/files/Lec6.pdf)
 
--Lecture 7: Tabu Search --- [slides]
+-Lecture 7: Tabu Search --- [slides](https://nunoantunesribeiro.github.io/files/Lec7.pdf)
 
--Lecture 8: Common Concepts for Metaheuristics --- [slides]
+-Lecture 8: Common Concepts for Metaheuristics --- [slides](https://nunoantunesribeiro.github.io/files/Lec8.pdf)
 
--Lecture 9: Very Large Neighborhood Search --- [slides]
+-Lecture 9: Very Large Neighborhood Search --- [slides](https://nunoantunesribeiro.github.io/files/Lec9.pdf)
 
--Lecture 10: Evolutionary Algorithms --- [slides]
+-Lecture 10: Evolutionary Algorithms --- [slides](https://nunoantunesribeiro.github.io/files/Lec10.pdf)
 
--Lecture 11: Project Consultation --- [slides]
+-Lecture 11: Project Consultation ---
 
--Lecture 12: Types of Evolutionary Algorithms --- [slides]
+-Lecture 12: Types of Evolutionary Algorithms --- [slides](https://nunoantunesribeiro.github.io/files/Lec12.pdf)
 
--Lecture 13: Using Genetic Algorithms to Calibrate Neural Networks --- [slides]
+-Lecture 13: Using Genetic Algorithms to Calibrate Neural Networks --- [slides](https://nunoantunesribeiro.github.io/files/Lec13.pdf)
 
--Lecture 14: Genetic Programming --- [slides]
+-Lecture 14: Genetic Programming --- [slides](https://nunoantunesribeiro.github.io/files/Lec14.pdf)
 
--Lecture 15: Multi-objective Optimization --- [slides]
+-Lecture 15: Multi-objective Optimization --- [slides](https://nunoantunesribeiro.github.io/files/Lec15.pdf)
 
--Lecture 16: Non-Dominated Sorting Genetic Algorithm --- (NSGA-II) [slides]
+-Lecture 16: Non-Dominated Sorting Genetic Algorithm --- (NSGA-II) [slides](https://nunoantunesribeiro.github.io/files/Lec16.pdf)
 
--Lecture 17: Particle Swarm Optimization --- [slides]
+-Lecture 17: Particle Swarm Optimization --- [slides](https://nunoantunesribeiro.github.io/files/Lec17.pdf)
 
--Lecture 18: Ant Colony Optimization --- [slides]
+-Lecture 18: Ant Colony Optimization --- [slides](https://nunoantunesribeiro.github.io/files/Lec18.pdf)
 
--Lecture 19: Other Swarm Optimization Algorithms --- [slides]
+-Lecture 19: Other Swarm Optimization Algorithms --- [slides](https://nunoantunesribeiro.github.io/files/Lec19.pdf)
 
