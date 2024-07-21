@@ -14,4 +14,4 @@ author_profile: true
 
 <h3>Graduate Courses</h3>
 
-- 40.614 Metaheuristics Optimization (2022)
+- [40.614 Metaheuristics Optimization](metaheuristic.md) (2022)
