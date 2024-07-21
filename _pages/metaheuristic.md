@@ -11,7 +11,7 @@ Real-world optimisation problems are often nonlinear, multimodal and with variou
 
 <h3>Lectures</h3>
 
--Lecture 1: Introduction to Metaheuristic Optimization --- [slides]([CV](https://nunoantunesribeiro.github.io/files/Lec1.pdf))
+-Lecture 1: Introduction to Metaheuristic Optimization --- [slides](https://nunoantunesribeiro.github.io/files/Lec1.pdf)
 
 -Lecture 2: Exact Methods of Optimization --- [slides]
 
