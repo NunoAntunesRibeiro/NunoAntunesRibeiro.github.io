@@ -7,7 +7,7 @@ author_profile: true
 
 <h3>Research Topics</h3>
 
-- ([Optimization of Airport Slot Allocation](https://nunoantunesribeiro.github.io/portfolio/portfolio-1/))
+- Optimization of Airport Slot Allocation([see more](https://nunoantunesribeiro.github.io/portfolio/portfolio-1/))
 - 
 
 <iframe width="700" height="400"
