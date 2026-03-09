@@ -25,13 +25,12 @@ Key contributions include:
 These approaches help reduce delays and fuel consumption while improving runway throughput.
 
 ## Selected Publications
-- *An Optimization Approach for the Terminal Airspace Scheduling Problem*  
-  W. Ng, N. A. Ribeiro, D. Jorge  
-  Transportation Research Part C
-
-- *Terminal Maneuvering Area Design Tool: Translational Research in Aviation*
-
-- *A Modeling Framework for Rapid Assessment of Terminal Airspace Configurations and Planning Scenarios*
+- [*An Optimization Approach for the Terminal Airspace Scheduling Problem*](https://doi.org/10.1016/j.trc.2024.104856)  
+  Ng, W., Ribeiro, N. A., & Jorge, D. (2024). *Transportation Research Part C: Emerging Technologies.* :contentReference[oaicite:0]{index=0}
+- [*Terminal Maneuvering Area Design Tool: Translational Research in Aviation*](https://doi.org/10.46254/AP05.20240106)  
+  Jackson, P., & Ribeiro, N. A. (2024). *Proceedings of the Asia Pacific Conference on Industrial Engineering and Operations Management.* :contentReference[oaicite:1]{index=1}
+- [*A Modeling Framework for Rapid Assessment of Terminal Airspace Configurations and Planning Scenarios*](https://www.researchgate.net/profile/Nuno-Antunes-Ribeiro/publication/379476778_A_Modeling_Framework_for_Rapid_Assessment_of_Terminal_Airspace_Configurations_and_Planning_Scenarios/links/664c1351479366623a013813/A-Modeling-Framework-for-Rapid-Assessment-of-Terminal-Airspace-Configurations-and-Planning-Scenarios.pdf)  
+  Ng, W., Ribeiro, N. A., & Jorge, D. (2022). *International Conference on Research in Air Transportation (ICRAT).*
 
 ## Research Funding
 - **National Research Foundation Singapore**  
