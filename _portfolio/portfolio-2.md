@@ -1,9 +1,55 @@
 ---
-title: "Resilient Airspace Operations "
-excerpt: "The seamless functioning of air travel heavily relies on enhanced air traffic management.  At the heart of this system lies the Terminal Manoeuvring Area (TMA) –-- a controlled airspace that handles a high volume of traffic, spanning approximately 50 to 200 nautical miles around the airport vicinity. This confined yet crucial airspace is where incoming and outgoing aircraft converge and diverge, making meticulous planning and execution of utmost importance to ensure smooth and safe operations. 
-
-In this research, we propose an integrated optimization approach that utilizes matheuristic algorithms to optimize runway aircraft sequencing decisions in the TMA, including aircraft speeds, utilization of holding stacks, vectoring and point-merger implementation. Our proposed algorithm employs an iterative process that combines a Linear Programming (LP) model with a Genetic Algorithm, enabling the rapid generation of feasible solutions (within 5 second) and convergence to near-optimal solutions in approximately 5 minutes (for time-windows of 3 hours). <br/><img src='/images/TMAProject.png'>"
+title: "Optimization of Aircraft Sequencing in Terminal Airspace"
+excerpt: ""
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+## Research Problem
+The **terminal airspace** surrounding airports is one of the most complex and congested parts of the air transportation system. Aircraft arriving and departing must follow structured procedures known as **Standard Arrival Routes (STARs)** and **Standard Instrument Departures (SIDs)**.
+
+Air traffic controllers must carefully sequence aircraft while maintaining safety separation and managing operational constraints. Inefficient sequencing can lead to increased fuel consumption, delays, airborne holding, and reduced runway throughput.
+
+With increasing air traffic demand, more advanced decision-support tools are needed to optimize aircraft sequencing in terminal airspace operations.
+
+## Contributions
+Our research develops **fast optimization algorithms** capable of determining optimal aircraft sequences and schedules in terminal airspace operations.
+
+Key contributions include:
+
+- Optimization models that determine the **optimal timing at each waypoint**
+- Algorithms that account for operational interventions such as speed control, holding patterns, vectoring, and point-merge procedures
+- Integrated trajectory generation methods that ensure **feasible flight paths**
+- Rapid-evaluation tools for testing alternative **terminal airspace configurations**
+
+These approaches help reduce delays and fuel consumption while improving runway throughput.
+
+## Selected Publications
+- *An Optimization Approach for the Terminal Airspace Scheduling Problem*  
+  W. Ng, N. A. Ribeiro, D. Jorge  
+  Transportation Research Part C
+
+- *Terminal Maneuvering Area Design Tool: Translational Research in Aviation*
+
+- *A Modeling Framework for Rapid Assessment of Terminal Airspace Configurations and Planning Scenarios*
+
+## Research Funding
+- **National Research Foundation Singapore**  
+  *Optimising Terminal Airspace Operations under Varying TBO Scenarios*  
+  Total Award: SGD 1,373,438
+
+- **Civil Aviation Authority of Singapore**  
+  *Airfield and Airspace Management*  
+  Total Award: SGD 720,000
+
+- **National Research Foundation Singapore**  
+  *Resilient Airspace Operations for Singapore*  
+  Total Award: SGD 398,722
+
+## Awards
+- Best Paper Award — AAAI Workshop on AI for Air Transportation (AI4AT) (2026)
+- Best Paper Award — INFORMS Air Transportation Section (2025)
+- Anna Valicek Silver Medal (AGIFORS) — Wayne Ng (2025)
+- Best Student Presentation — INFORMS Aviation (2023)
+
+<br/><img src='/images/TMAProject.png'>
