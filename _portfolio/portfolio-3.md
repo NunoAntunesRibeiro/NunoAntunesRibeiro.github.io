@@ -28,8 +28,8 @@ Key contributions include:
 These methods help airports and airlines evaluate long-term network strategies in an increasingly competitive global market.
 
 ## Selected Publications
-- *Hub Competition and Demand Modeling in Long-Haul Aviation Markets: A Forward-Looking Scenario-Based Game-Theoretical Approach*  
-  M. Li, S. Birolini, N. A. Ribeiro (2025)
+- [*Hub Competition and Demand Modeling in Long-Haul Aviation Markets: A Forward-Looking Scenario-Based Game-Theoretical Approach*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6067409)  
+  Li, M., Birolini, S., & Ribeiro, N. A. (2025). *Available at SSRN.*
 
 ## Research Funding
 - **Civil Aviation Authority of Singapore**  
