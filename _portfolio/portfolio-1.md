@@ -5,6 +5,7 @@ excerpt: ""
 collection: portfolio
 ---
 
+## 
 ## Research Problem
 Airport slots determine when airlines are allowed to take off and land at highly congested airports. At coordinated airports, demand for slots often exceeds available capacity, making slot allocation a complex and highly regulated process governed by the **Worldwide Airport Slot Guidelines (WASG)**.
 
