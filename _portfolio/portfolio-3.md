@@ -1,8 +1,38 @@
 ---
-title: "Integrated Airfield and Airspace Management"
-excerpt: "The seamless functioning of air travel heavily relies on enhanced air traffic management.  At the heart of this system lies the Terminal Manoeuvring Area (TMA) –-- a controlled airspace that handles a high volume of traffic, spanning approximately 100 to 200 nautical miles around the airport vicinity. This confined yet crucial airspace is where incoming and outgoing aircraft converge and diverge, making meticulous planning and execution of utmost importance to ensure smooth and safe operations. In this research, we propose an integrated optimization approach that utilizes matheuristic algorithms to optimize runway aircraft sequencing decisions in the TMA, including aircraft speeds, utilization of holding stacks, vectoring and point-merger implementation. Our proposed algorithm employs an iterative process that combines a Linear Programming (LP) model with a Genetic Algorithm, enabling the rapid generation of feasible solutions (within 5 second) and convergence to near-optimal solutions in approximately 5 minutes (for time-windows of 3 hours). <br/><img src='/images/StandAllocationProject.png'>"
+title: "Airline Network Planning and Hub Connectivity Optimization"
+excerpt: ""
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Research Problem
+Airline networks and airport hubs compete to attract connecting passengers traveling between cities worldwide. Airports such as Singapore, Dubai, Doha, Amsterdam, and Hong Kong compete intensely to serve as **global connecting hubs**.
+
+However, airport capacity constraints and growing competition make network planning increasingly complex. Airlines and airports must determine:
+
+- Which routes to operate
+- How frequently flights should operate
+- How to position themselves relative to competing hubs
+
+Understanding passenger choices and anticipating competitor strategies are therefore essential for effective network development.
+
+## Contributions
+Our research develops integrated models combining **econometrics, optimization, and game theory** to support strategic route network planning.
+
+Key contributions include:
+
+- Econometric models that explain passenger route choices based on factors such as connection times, flight frequency, travel distance, and socio-economic variables
+- Optimization models that determine the **optimal growth in flight frequencies** to maximize passenger capture
+- Scenario-based forecasting using **global population and GDP projections**
+- Game-theoretic models that capture **competition between major hub airports**
+
+These methods help airports and airlines evaluate long-term network strategies in an increasingly competitive global market.
+
+## Selected Publications
+- *Hub Competition and Demand Modeling in Long-Haul Aviation Markets: A Forward-Looking Scenario-Based Game-Theoretical Approach*  
+  M. Li, S. Birolini, N. A. Ribeiro (2025)
+
+## Research Funding
+- **Civil Aviation Authority of Singapore**  
+  *Airfield Management and Economics*  
+  Total Award: SGD 520,145
 
