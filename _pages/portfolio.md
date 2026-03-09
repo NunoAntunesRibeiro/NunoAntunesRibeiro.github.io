@@ -11,7 +11,7 @@ author_profile: true
 - 
 
 <iframe width="700" height="400"
-src="https://www.youtube.com/embed/2Y3gfGmxB8Q"
+src="https://www.youtube.com/embed/2Y3gfGmxB8Q?vq=hd1080"
 frameborder="0"
 allowfullscreen>
 </iframe>
