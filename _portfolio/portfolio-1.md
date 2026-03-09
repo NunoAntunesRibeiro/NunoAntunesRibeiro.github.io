@@ -50,4 +50,4 @@ These methods help improve airport connectivity, airline schedules, and passenge
   *Optimization Techniques for Collaborative and Integrated Slot Allocation for a Network of Airports* (2025–2029)  
   Total Award: USD 383,943
 
-<br/><img src='/images/TMAProject.png'>
+<br/><img src='/images/SlotAllocationProject.png'>
