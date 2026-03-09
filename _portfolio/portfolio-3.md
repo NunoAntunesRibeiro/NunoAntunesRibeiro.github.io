@@ -36,5 +36,5 @@ These methods help airports and airlines evaluate long-term network strategies i
   *Airfield Management and Economics*  
   Total Award: SGD 520,145
 
-  Connectivity.png
+<br/><img src='/images/Connectivity.png'>
 
