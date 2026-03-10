@@ -11,8 +11,7 @@ author_profile: true
 - Optimization of Aircraft Sequencing in Terminal Airspace - [see more](https://nunoantunesribeiro.github.io/portfolio/TerminalAirspaceOptimization/)
 -  - Optimization of Storage Space Assignment in Airport Cargo Terminals - [see more](https://nunoantunesribeiro.github.io/portfolio/ConvectiveWeatherOptimization/)
 - Airline Network Planning and Hub Connectivity Optimization - [see more](https://nunoantunesribeiro.github.io/portfolio/ConnectivityOptimization/)
- - Optimization of Storage Space Assignment in Airport Cargo Terminals - [see more](https://nunoantunesribeiro.github.io/portfolio/CargoOptimization/)
-
+ - Optimization of Storage Space Assignment in Airport Cargo Terminals - [see more](https://nunoantunesribeiro.github.io/portfolio/CargoOptimization.md/)
 <iframe width="700" height="400"
 src="https://www.youtube.com/embed/2Y3gfGmxB8Q?vq=hd1080"
 frameborder="0"
