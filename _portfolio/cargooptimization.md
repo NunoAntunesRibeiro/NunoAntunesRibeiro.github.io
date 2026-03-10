@@ -27,7 +27,7 @@ These approaches provide cargo terminal operators with analytical tools to bette
 
 ## Selected Publications
 - [*Optimization of Storage Space Assignment at Airport Cargo Terminals*](https://www.sciencedirect.com/science/article/pii/S0377221726000755)  
-  Li, M., Ribeiro, N. A., & collaborators. (2026). *European Journal of Operational Research.*
+  Yuan, M., Zhou, C., & Ribeiro, N. A. (2026). *European Journal of Operational Research.*
 
 ## Research Collaboration
 This research is conducted in collaboration with **Northwestern Polytechnical University (China)**.
