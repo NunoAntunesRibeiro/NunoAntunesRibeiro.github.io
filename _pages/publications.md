@@ -7,33 +7,63 @@ author_profile: true
 
 <h3>Journal Publications</h3>
 
+- [Yuan, M., Zhou, C., Ribeiro, N. A., Ren, X., Xue, L., & Teng, Y. (2026). An exact method for storage space assignment at airport cargo terminal: A temporal-spatial packing problem. European Journal of Operational Research.](https://doi.org/10.1016/j.ejor.2026.01.XXX)
+
+- [Li, Y., Fang, Y., Zhou, S., Long, T., Zhang, Y., Ribeiro, N. A., & Melgani, F. (2025). A lightweight normalization-free architecture for object detection in high spatial resolution remote sensing imagery. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 18, 24491–24508.](https://ieeexplore.ieee.org/document/)
+
+- [Li, Y., Fang, Y., Zhou, S., Zhang, Y., & Ribeiro, N. A. (2025). Robust small-object detection in aerial surveillance via integrated multi-scale probabilistic framework. Mathematics, 13(14), 2303.](https://www.mdpi.com/2227-7390/13/14/2303)
+
+- [Suvittawat, N., Kurniawan, C., Datephanyawat, J., Tay, J., Liu, Z., Soh, D. W., & Ribeiro, N. A. (2025). Advances in aircraft skin defect detection using computer vision: A survey and comparison of YOLOv9 and RT-DETR performance. Aerospace, 12(4), 356.](https://www.mdpi.com/2226-4310/12/4/356)
+
+- [López-Ramos, F., Benita, F., & Ribeiro, N. A. (2025). A novel decision support framework for the multi-objective aircraft routing problem. Computers & Operations Research, 180, 107058.](https://doi.org/10.1016/j.cor.2025.107058)
+
+- [Ribeiro, N. A., Tay, J., Ng, W., & Birolini, S. (2025). Delay predictive analytics for airport capacity management. Transportation Research Part C: Emerging Technologies, 171, 104947.](https://doi.org/10.1016/j.trc.2024.104947)
+
+- [Ng, W., Ribeiro, N. A., & Jorge, D. (2024). An optimization approach for the terminal airspace scheduling problem. Transportation Research Part C: Emerging Technologies, 169, 104856.](https://doi.org/10.1016/j.trc.2024.104856)
+
 - [Pouget, L., Ribeiro, N. A., Odoni, A. R., & Antunes, A. P. (2023). How do airlines react to slot displacements? Evidence from a major airport. Journal of Air Transport Management, 106, 102300.](https://www.sciencedirect.com/science/article/pii/S0969699722001193)
 
-- [Birolini, S., Jacquillat, A., Schmedeman, P., & Ribeiro, N. (2023). Passenger-Centric Slot Allocation at Schedule-Coordinated Airports. Transportation Science, 57(1), 4-26.](https://pubsonline.informs.org/doi/full/10.1287/trsc.2022.1165)
-  
--   [Jorge, D., Ribeiro, N. A., & Antunes, A. P. (2021). Towards a decision-support tool for airport slot allocation: Application to Guarulhos (Sao Paulo, Brazil). Journal of Air Transport Management, 93, 102048.](https://www.sciencedirect.com/science/article/pii/S0969699721000314)
+- [Birolini, S., Jacquillat, A., Schmedeman, P., & Ribeiro, N. A. (2023). Passenger-centric slot allocation at schedule-coordinated airports. Transportation Science, 57(1), 4–26.](https://pubsonline.informs.org/doi/full/10.1287/trsc.2022.1165)
 
-- [Ribeiro, N. A., Jacquillat, A., & Antunes, A. P. (2019). A large-scale neighborhood search approach to airport slot allocation. Transportation Science, 53(6), 1772-1797.](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2019.0922)
+- [Jorge, D., Ribeiro, N. A., & Antunes, A. P. (2021). Towards a decision-support tool for airport slot allocation: Application to Guarulhos (São Paulo, Brazil). Journal of Air Transport Management, 93, 102048.](https://www.sciencedirect.com/science/article/pii/S0969699721000314)
 
-- [Ribeiro, N. A., Jacquillat, A., Antunes, A. P., & Odoni, A. (2019). Improving slot allocation at Level 3 airports. Transportation Research Part A: Policy and Practice, 127, 32-54.](https://www.sciencedirect.com/science/article/pii/S0965856418304804)
+- [Ribeiro, N. A., Jacquillat, A., & Antunes, A. P. (2019). A large-scale neighborhood search approach to airport slot allocation. Transportation Science, 53(6), 1772–1797.](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2019.0922)
 
-- [Ribeiro, N. A., Jacquillat, A., Antunes, A. P., Odoni, A. R., & Pita, J. P. (2018). An optimization approach for airport slot allocation under IATA guidelines. Transportation Research Part B: Methodological, 112, 132-156.](https://www.sciencedirect.com/science/article/pii/S0191261517304538)
+- [Ribeiro, N. A., Jacquillat, A., Antunes, A. P., & Odoni, A. (2019). Improving slot allocation at Level 3 airports. Transportation Research Part A: Policy and Practice, 127, 32–54.](https://www.sciencedirect.com/science/article/pii/S0965856418304804)
 
-<h3>Preprints</h3>
+- [Ribeiro, N. A., Jacquillat, A., Antunes, A. P., Odoni, A. R., & Pita, J. P. (2018). An optimization approach for airport slot allocation under IATA guidelines. Transportation Research Part B: Methodological, 112, 132–156.](https://www.sciencedirect.com/science/article/pii/S0191261517304538)
 
-- [Ng, W., Ribeiro, N.A., & Jorge, D. (2024). An Optimization Approach for the Terminal Airspace Scheduling Problem.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4706804)
+---
 
-- [López-Ramos, F., Benita, F., & Ribeiro, N. A. (2024). A Novel Decision Support Framework for Multi-Objective Aircraft Routing Problem.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4704984)
+<h3>Manuscripts Under Review</h3>
 
-- [Ribeiro, N. A., Ng, W., Tay, J., & Birolini, S. (2024) Delay Predictive Analytics for Airport Capacity Management.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4679158)
+- Li, M., Birolini, S., & Ribeiro, N. A. (2025). Hub competition and demand modeling in long-haul aviation markets: A forward-looking scenario-based game-theoretical approach. Under review at *Transportation Research Part E*.
+
+- Liu, Y., Chu, N., Ng, K. H., Ribeiro, N. A., Zhu, C., & Leung, C. Y. (2025). Spatio-temporal weather and airspace graph network (SWAG-Net) for trajectory-based ETA prediction. Under review at *Transportation Research Part E*.
+
+- Teo, D., Jackson, P. L., Delahaye, D., & Ribeiro, N. A. (2025). Optimization-based simulation of air traffic flow management within the decentralized ASEAN region. Under review at *Transportation Research Part C*.
+
+- Teo, D., Dai, G., Nandi, R., Jackson, P., & Ribeiro, N. A. (2025). From decentralized to collaborative ATFM: A simulation-based assessment of FF-ICE/R1 in Southeast Asia. Under review at *Transportation Research Part A*.
+
+- Ng, W., Birolini, S., & Ribeiro, N. A. (2025). Data-driven optimization of aircraft sequencing and descent trajectories for fuel efficiency in the terminal manoeuvring area. Under review at *Transportation Research Part B*.
+
+---
 
 <h3>Conference Papers</h3>
 
-- [Suvittawat, N., & Ribeiro, N. A. (2024) Aircraft Surface Defect Inspection System Using AI with UAVs. In Proceedings of the International Conference on Research in Air Transportation (ICRAT)](https://drive.google.com/file/d/1j53PduA_LlFYOBL6OkvMRgEX1CbtyK0T/view?usp=sharing)
+- [Jackson, P., & Ribeiro, N. A. (2024). Terminal Maneuvering Area Design Tool: Translational Research in Aviation. Proceedings of the 5th Asia Pacific Conference on Industrial Engineering and Operations Management (IEOM), Tokyo.](https://ieomsociety.org)
 
-- [Ng, W., & Ribeiro, N. A. (2024) A Modeling Framework for Rapid Assessment of Terminal Airspace Configurations and Planning Scenarios. In Proceedings of the International Conference on Research in Air Transportation (ICRAT)](https://drive.google.com/file/d/1gbHi10XrsB8XWhdmeUP8n_XtKzqTGj48/view?usp=sharing)
+- [Suvittawat, N., & Ribeiro, N. A. (2024). Aircraft Surface Defect Inspection System Using AI with UAVs. Proceedings of the International Conference on Research in Air Transportation (ICRAT).](https://drive.google.com/file/d/1j53PduA_LlFYOBL6OkvMRgEX1CbtyK0T/view)
 
-- [Tralhao, L., Sousa, N., Ribeiro, N., & Coutinho-Rodrigues, J. (2015). Design of bicycling suitability maps for hilly cities. In Proceedings of the Institution of Civil Engineers-Municipal Engineer (Vol. 168, No. 2, pp. 96-105). Thomas Telford Ltd.](https://www.icevirtuallibrary.com/doi/abs/10.1680/muen.14.00009)
+- [Ng, W., & Ribeiro, N. A. (2024). A Modeling Framework for Rapid Assessment of Terminal Airspace Configurations and Planning Scenarios. Proceedings of the International Conference on Research in Air Transportation (ICRAT).](https://drive.google.com/file/d/1gbHi10XrsB8XWhdmeUP8n_XtKzqTGj48/view)
+
+- Jorge, D., Ribeiro, N. A., & Antunes, A. P. (2020). Towards a Decision-Support Tool for Airport Slot Allocation. Proceedings of the TSL Second Triennial Conference.
+
+- [Tralhão, L., Sousa, N., Ribeiro, N. A., & Coutinho-Rodrigues, J. (2015). Design of bicycling suitability maps for hilly cities. Proceedings of the ICE – Municipal Engineer.](https://www.icevirtuallibrary.com/doi/abs/10.1680/muen.14.00009)
+
+- Ribeiro, N. A., Tralhão, L., Rodrigues, J. C., & Sousa, N. (2013). Building a Bicycle Suitability Map for Coimbra. Proceedings of the Energy for Sustainability Multidisciplinary Conference (EfS).
+
+---
 
 <h3>White Papers</h3>
 
