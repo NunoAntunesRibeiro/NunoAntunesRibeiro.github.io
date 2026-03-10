@@ -21,3 +21,6 @@ Key contributions include:
 ## Selected Publications
 - [*Advances in Aircraft Skin Defect Detection Using Computer Vision: A Survey and Comparison of YOLOv9 and RT-DETR Performance*](https://doi.org/10.3390/aerospace12040356)  
   Suvittawat, N., Kurniawan, C., Datephanyawat, J., Tay, J., Liu, Z., Soh, D. W., & Ribeiro, N. A. (2025). *Aerospace.*
+
+  - [*Aircraft Surface Defect Inspection System Using AI with UAVs*](https://www.researchgate.net/profile/Nuno-Antunes-Ribeiro/publication/379476938_Aircraft_Surface_Defect_Inspection_System_Using_AI_with_UAVs/links/660af671f5a5de0a9ff403f1/Aircraft-Surface-Defect-Inspection-System-Using-AI-with-UAVs.pdf)
+  Suvittawat, N., & Ribeiro, N. A. (2023). *International Conference on Research in Air Transportation (ICRAT).*
