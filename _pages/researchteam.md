@@ -5,8 +5,6 @@ permalink: /team/
 author_profile: true
 ---
 
-## Research Team
-
 This page provides an overview of current and former members of the research team, including research staff, doctoral students, master's students, and visiting doctoral students.
 
 ---
