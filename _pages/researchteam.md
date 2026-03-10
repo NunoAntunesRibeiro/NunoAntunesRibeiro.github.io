@@ -16,75 +16,90 @@ This page provides an overview of current and former members of the research tea
 <div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
 <b><a href="https://sg.linkedin.com/in/wayne-ng-931006379" target="_blank">Wayne Ng</a></b><br>
 Research Fellow<br>
-Projects: TEN-X, TBO<br>
+Projects:<br>
+• Total Environment for Next-Generation Airport Management Experimentation Platform Phase 1<br>
+• Optimising Terminal Airspace Operations under Varying TBO Scenarios<br>
 2025–Present
 </div>
 
 <div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
 <b><a href="https://sg.linkedin.com/in/darryl-teo" target="_blank">Darryl Teo</a></b><br>
 Research Fellow<br>
-Projects: TEN-X, FF-ICE<br>
+Projects:<br>
+• Total Environment for Next-Generation Airport Management Experimentation Platform Phase 1<br>
+• Evaluating CONOPS for FF-ICE R1 in South-East Asia<br>
 2025–Present
 </div>
 
 <div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
 <b><a href="https://sg.linkedin.com/in/mingmei-li-b30b04a2" target="_blank">Mingmei Li</a></b><br>
 Research Fellow<br>
-Projects: TBO, AAM<br>
+Projects:<br>
+• Optimising Terminal Airspace Operations under Varying TBO Scenarios<br>
+• Airfield and Airspace Management<br>
 2022–Present
 </div>
 
 <div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
 <b><a href="https://sg.linkedin.com/in/marcusignatiuskoh" target="_blank">Marcus Koh</a></b><br>
 Senior Research Assistant<br>
-Projects: TEN-X, GBL<br>
+Projects:<br>
+• Total Environment for Next-Generation Airport Management Experimentation Platform Phase 1<br>
+• Game-Based Learning in PATCO Training<br>
 2024–Present
 </div>
 
 <div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
 <b><a href="https://sg.linkedin.com/in/wang-weimeng" target="_blank">Weimeng Wang</a></b><br>
 Senior Research Assistant<br>
-Projects: GBL<br>
+Projects:<br>
+• Game-Based Learning in PATCO Training<br>
 2024–Present
 </div>
 
 <div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
 <b>Amul Kumar</b><br>
 Senior Research Assistant<br>
-Projects: GBL<br>
+Projects:<br>
+• Game-Based Learning in PATCO Training<br>
 2024–Present
 </div>
 
 <div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
 <b><a href="https://sg.linkedin.com/in/jordan-tay-a2750b145" target="_blank">Jordan Tay</a></b><br>
 Senior Research Assistant<br>
-Projects: GBL, AAM<br>
+Projects:<br>
+• Game-Based Learning in PATCO Training<br>
+• Airfield Management and Economics<br>
 2021–Present
 </div>
 
 <div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
 <b><a href="https://sg.linkedin.com/in/geneeliaw" target="_blank">Ge Nee</a></b><br>
 Research Officer<br>
-Projects: TEN-X<br>
+Projects:<br>
+• Total Environment for Next-Generation Airport Management Experimentation Platform Phase 1<br>
 2025–Present
 </div>
 
 <div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
 <b><a href="https://sg.linkedin.com/in/shuanyrn" target="_blank">Nicole Shuan</a></b><br>
 Research Officer<br>
-Projects: TEN-X, TBO<br>
+Projects:<br>
+• Total Environment for Next-Generation Airport Management Experimentation Platform Phase 1<br>
+• Optimising Terminal Airspace Operations under Varying TBO Scenarios<br>
 2024–Present
 </div>
 
 <div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
 <b>Sian Poh</b><br>
 Research Manager<br>
-Projects: GBL<br>
+Projects:<br>
+• Game-Based Learning in PATCO Training<br>
 2024–Present
 </div>
 
 </div>
-
 ---
 
 ## PhD Students
