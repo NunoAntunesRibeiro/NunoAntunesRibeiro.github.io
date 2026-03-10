@@ -39,9 +39,9 @@ author_profile: true
 
 - Liu, Y., Chu, N., Ng, K. H., Ribeiro, N. A., Zhu, C., & Leung, C. Y. (2025). Spatio-Temporal Weather and Airspace Graph Network (SWAG-Net) for Trajectory-Based ETA Prediction.
 
-- [Teo, D., Jackson, P. L., Delahaye, D., & Ribeiro, N. A. (2025). Optimization-Based Simulation of Air Traffic Flow Management within the Decentralized ASEAN Region.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6018476)
+- [Teo, D., Jackson, P. L., Delahaye, D., & Ribeiro, N. A. (2025). Optimization-Based Simulation of Air Traffic Flow Management within the Decentralized ASEAN Region.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5173282)
 
-- [Teo, D., Dai, G., Nandi, R., Jackson, P., & Ribeiro, N. A. (2025). From Decentralized to Collaborative ATFM: A Simulation-Based Assessment of FF-ICE/R1 in Southeast Asia.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6018484)
+- [Teo, D., Dai, G., Nandi, R., Jackson, P., & Ribeiro, N. A. (2025). From Decentralized to Collaborative ATFM: A Simulation-Based Assessment of FF-ICE/R1 in Southeast Asia.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6100384)
 
 - Ng, W., Birolini, S., & Ribeiro, N. A. (2025). Data-Driven Optimization of Aircraft Sequencing and Descent Trajectories for Fuel Efficiency in the Terminal Manoeuvring Area.
 
