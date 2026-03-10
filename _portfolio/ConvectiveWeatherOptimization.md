@@ -1,3 +1,10 @@
+---
+title: "Optimization of Aircraft Trajectories in Terminal Airspace under Convective Weather"
+excerpt: ""
+
+collection: portfolio
+---
+
 ## Research Problem
 The **terminal airspace** surrounding airports is one of the most complex and safety-critical regions of the air transportation system. It is the area where aircraft arriving and departing from an airport converge and diverge, requiring precise coordination to maintain safe separation between flights.
 
