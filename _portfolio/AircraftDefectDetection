@@ -1,0 +1,21 @@
+# Computer Vision for Automated Aircraft Surface Inspection
+
+## Research Problem
+Aircraft structures are continuously exposed to operational wear, environmental stress, and accidental damage. Detecting visible surface defects such as cracks, dents, corrosion, scratches, or missing rivets is therefore essential for maintaining aircraft safety and airworthiness. At present, this task still relies heavily on **manual visual inspection**, which is labor-intensive, time-consuming, and dependent on inspector experience.
+
+Recent advances in **computer vision and artificial intelligence** create new opportunities to support and partially automate aircraft inspection processes. By combining image-based sensing technologies with modern detection algorithms, it becomes possible to identify defects more efficiently and consistently across large aircraft surfaces. However, practical deployment still requires robust algorithms, suitable data collection methods, and representative datasets collected under realistic inspection conditions.
+
+## Contributions
+Our research develops and evaluates **computer vision methods for automated aircraft defect detection**, with a focus on practical inspection settings.
+
+Key contributions include:
+
+- Development and evaluation of **real-time computer vision algorithms** for aircraft defect detection based on modern object detection architectures such as **YOLO** and **RT-DETR**
+- Collection of a **valuable real-world dataset of aircraft surface defects**, captured using drone imagery from a preserved Boeing 747 located in **Korat, Nakhon Ratchasima, Thailand**
+- Experimental validation of **low-cost and easily deployable inspection workflows**, showing the potential of drone-based imaging combined with AI models to support aircraft maintenance inspections
+
+This research contributes toward more efficient, scalable, and data-driven aircraft inspection processes.
+
+## Selected Publications
+- [*Advances in Aircraft Skin Defect Detection Using Computer Vision: A Survey and Comparison of YOLOv9 and RT-DETR Performance*](https://doi.org/10.3390/aerospace12040356)  
+  Suvittawat, N., Kurniawan, C., Datephanyawat, J., Tay, J., Liu, Z., Soh, D. W., & Ribeiro, N. A. (2025). *Aerospace.*
