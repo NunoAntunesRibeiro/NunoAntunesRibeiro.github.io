@@ -9,8 +9,8 @@ author_profile: true
 
 - [40.015 Simulation Modeling and Analysis](simulationcourse.md) (2019 to Present)
 - [40.321 Airports Systems Modelling and Simulation](airportcourse.md) (2020 to Present)
-- [01.400 Capstone](https://esd.sutd.edu.sg/courses/01400-capstone-1/) (2021)
-- [10.022 Modelling Uncertainty](https://smt.sutd.edu.sg/education/undergraduate/courses/10022-modelling-uncertainty/) (2023-2024)
+- [01.400 Capstone](https://www.sutd.edu.sg/education/undergraduate/capstone/for-students/) (2021)
+- [10.022 Modelling Uncertainty](https://www.sutd.edu.sg/course/10-022-modelling-uncertainty/) (2023-2024)
 
 <h3>Graduate Courses</h3>
 
