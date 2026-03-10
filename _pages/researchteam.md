@@ -5,42 +5,251 @@ permalink: /team/
 author_profile: true
 ---
 
-<h3>Journal Publications</h3>
+## Research Team
 
-- [Pouget, L., Ribeiro, N. A., Odoni, A. R., & Antunes, A. P. (2023). How do airlines react to slot displacements? Evidence from a major airport. Journal of Air Transport Management, 106, 102300.](https://www.sciencedirect.com/science/article/pii/S0969699722001193)
+This page provides an overview of current and former members of the research team, including research staff, doctoral students, master's students, and visiting doctoral students.
 
-- [Birolini, S., Jacquillat, A., Schmedeman, P., & Ribeiro, N. (2023). Passenger-Centric Slot Allocation at Schedule-Coordinated Airports. Transportation Science, 57(1), 4-26.](https://pubsonline.informs.org/doi/full/10.1287/trsc.2022.1165)
-  
--   [Jorge, D., Ribeiro, N. A., & Antunes, A. P. (2021). Towards a decision-support tool for airport slot allocation: Application to Guarulhos (Sao Paulo, Brazil). Journal of Air Transport Management, 93, 102048.](https://www.sciencedirect.com/science/article/pii/S0969699721000314)
+---
 
-- [Ribeiro, N. A., Jacquillat, A., & Antunes, A. P. (2019). A large-scale neighborhood search approach to airport slot allocation. Transportation Science, 53(6), 1772-1797.](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2019.0922)
+## Current Research Staff
 
-- [Ribeiro, N. A., Jacquillat, A., Antunes, A. P., & Odoni, A. (2019). Improving slot allocation at Level 3 airports. Transportation Research Part A: Policy and Practice, 127, 32-54.](https://www.sciencedirect.com/science/article/pii/S0965856418304804)
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px;">
 
-- [Ribeiro, N. A., Jacquillat, A., Antunes, A. P., Odoni, A. R., & Pita, J. P. (2018). An optimization approach for airport slot allocation under IATA guidelines. Transportation Research Part B: Methodological, 112, 132-156.](https://www.sciencedirect.com/science/article/pii/S0191261517304538)
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Wayne Ng</b><br>
+Research Fellow<br>
+Projects: TEN-X, TBO<br>
+2025–Present
+</div>
 
-<h3>Preprints</h3>
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Darryl Teo</b><br>
+Research Fellow<br>
+Projects: TEN-X, FF-ICE<br>
+2025–Present
+</div>
 
-- [Ng, W., Ribeiro, N.A., & Jorge, D. (2024). An Optimization Approach for the Terminal Airspace Scheduling Problem.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4706804)
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Mingmei Li</b><br>
+Research Fellow<br>
+Projects: TBO, CAAS-AA<br>
+2022–Present
+</div>
 
-- [López-Ramos, F., Benita, F., & Ribeiro, N. A. (2024). A Novel Decision Support Framework for Multi-Objective Aircraft Routing Problem.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4704984)
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Marcus Koh</b><br>
+Senior Research Assistant<br>
+Projects: TEN-X, GBL<br>
+2024–Present
+</div>
 
-- [Ribeiro, N. A., Ng, W., Tay, J., & Birolini, S. (2024) Delay Predictive Analytics for Airport Capacity Management.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4679158)
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Weimeng Wang</b><br>
+Senior Research Assistant<br>
+Projects: GBL<br>
+2024–Present
+</div>
 
-<h3>Conference Papers</h3>
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Amul Kumar</b><br>
+Senior Research Assistant<br>
+Projects: GBL<br>
+2024–Present
+</div>
 
-- [Suvittawat, N., & Ribeiro, N. A. (2024) Aircraft Surface Defect Inspection System Using AI with UAVs. In Proceedings of the International Conference on Research in Air Transportation (ICRAT)](https://drive.google.com/file/d/1j53PduA_LlFYOBL6OkvMRgEX1CbtyK0T/view?usp=sharing)
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Jordan Tay</b><br>
+Senior Research Assistant<br>
+Projects: GBL, CAAS-AM<br>
+2021–Present
+</div>
 
-- [Ng, W., & Ribeiro, N. A. (2024) A Modeling Framework for Rapid Assessment of Terminal Airspace Configurations and Planning Scenarios. In Proceedings of the International Conference on Research in Air Transportation (ICRAT)](https://drive.google.com/file/d/1gbHi10XrsB8XWhdmeUP8n_XtKzqTGj48/view?usp=sharing)
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Ge Nee</b><br>
+Research Officer<br>
+Projects: TEN-X<br>
+2025–Present
+</div>
 
-- [Tralhao, L., Sousa, N., Ribeiro, N., & Coutinho-Rodrigues, J. (2015). Design of bicycling suitability maps for hilly cities. In Proceedings of the Institution of Civil Engineers-Municipal Engineer (Vol. 168, No. 2, pp. 96-105). Thomas Telford Ltd.](https://www.icevirtuallibrary.com/doi/abs/10.1680/muen.14.00009)
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Nicole Shuan</b><br>
+Research Officer<br>
+Projects: TEN-X, TBO<br>
+2024–Present
+</div>
 
-<h3>White Papers</h3>
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Sian Poh</b><br>
+Research Manager<br>
+Projects: GBL<br>
+2024–Present
+</div>
 
-- [A Future with Autonomous Urban Air Mobility (2024)](https://asi.sutd.edu.sg/white-papers/asi-white-paper-a-future-with-autonomous-urban-air-mobility/)
+</div>
 
-- [Airport-Rail Inter-modality in Southeast Asia – Opportunities and the Impact of High-Speed Rail (2024)](https://asi.sutd.edu.sg/white-papers/asi-white-paper-airport-rail-inter-modality-in-southeast-asia-opportunities-and-the-impact-of-high-speed-rail/)
+---
 
-- [The Future of Super Short-Haul Air Transport Southeast Asia (2024)](https://asi.sutd.edu.sg/white-papers/asi-white-paper-the-future-of-super-short-haul-air-travel-in-southeast-asia/)
+## PhD Students
 
-- [Slot allocation amidst COVID-19 recovery (2022)](https://asi.sutd.edu.sg/white-papers/asi-white-paper-slots/)
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px;">
+
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Marcus Koh</b><br>
+<i>Towards Efficient Airport Ground Operations: Models for Resource Allocation and Scheduling</i><br>
+Ongoing<br>
+2023–Present
+</div>
+
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Jetanat Datephanyawat</b><br>
+<i>Terminal Airspace Operations Under Convective Weather Uncertainty</i><br>
+Ongoing<br>
+2022–Present
+</div>
+
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Wayne Ng</b><br>
+<i>Towards an Optimization Framework for Efficient and Sustainable Terminal Airspace and Airfield Operations</i><br>
+Graduated<br>
+First position: Research Fellow, SUTD<br>
+2021–2025
+</div>
+
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Darryl Teo</b><br>
+<i>Quantifying the Value of Information and Collaboration in the Decentralized ASEAN Airspace Network</i><br>
+Graduated<br>
+First position: Research Fellow, SUTD<br>
+2020–2025
+</div>
+
+</div>
+
+---
+
+## Master's Students
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px;">
+
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Nicole Shuan</b><br>
+<i>Algorithmic Approaches for Rapid Optimization of Airport Ground Operations</i><br>
+Ongoing<br>
+2026–Present
+</div>
+
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Jie Xun</b><br>
+<i>Flight Operations Analysis and Optimization in the Terminal Maneuvering Area (TMA)</i><br>
+Ongoing<br>
+IDB-EPP Program, Airbus<br>
+2025–Present
+</div>
+
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Jordan Tay</b><br>
+<i>From Prediction to Optimization: Analytics for Airport Management</i><br>
+Ongoing<br>
+2023–Present
+</div>
+
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Xie Peining</b><br>
+<i>Optimizing the Setting of Declared Capacities at Slot Coordinated Airports</i><br>
+Graduated<br>
+First position: Engineer, Scoot Pte Ltd<br>
+2021–2022
+</div>
+
+</div>
+
+---
+
+## Visiting Doctoral Students
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px;">
+
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Yuan Mengxue</b><br>
+<i>Research on Space Allocation and Task Scheduling in Air Cargo Terminals</i><br>
+Xi'an Polytechnic University<br>
+Visited SUTD from September 2024 to March 2025<br>
+Ongoing<br>
+2022–Present
+</div>
+
+</div>
+
+---
+
+## Alumni / Former Research Staff
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px;">
+
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Quang Thinh Dinh</b><br>
+Research Fellow<br>
+Next appointment: Optimization Modeling Lead, Vinsmart Future<br>
+2023–2025
+</div>
+
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Rakesh Nandi</b><br>
+Research Fellow<br>
+2024–2025
+</div>
+
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Aasheesh Dixit</b><br>
+Research Fellow<br>
+Next appointment: Senior Scientist, Infor<br>
+2022–2023
+</div>
+
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Karkulali Pugalenthi</b><br>
+Research Fellow<br>
+Next appointment: Scientist, A*STAR SimTech<br>
+2022–2023
+</div>
+
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Padmapriya Srinivasan</b><br>
+Senior Research Assistant<br>
+2024–2025
+</div>
+
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Dai Gengling</b><br>
+Senior Research Assistant<br>
+2024–2025
+</div>
+
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Wenhe Cao</b><br>
+Research Officer<br>
+Next appointment: Flight Operations Coordinator, All Nippon Airways<br>
+2022
+</div>
+
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Yang Yinyu</b><br>
+Research Officer<br>
+Next appointment: Co-Founder, Rosen Bridge Singapore Pte Ltd<br>
+2021–2024
+</div>
+
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Siew Ning</b><br>
+Research Officer<br>
+Next appointment: Systems Engineer, MITRE<br>
+2024–2025
+</div>
+
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b>Wan Ying</b><br>
+Research Officer<br>
+2020–2021
+</div>
+
+</div>
