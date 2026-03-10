@@ -17,8 +17,8 @@ This page provides an overview of current and former members of the research tea
 <b><a href="https://sg.linkedin.com/in/wayne-ng-931006379" target="_blank">Wayne Ng</a></b><br>
 Research Fellow<br>
 Projects:<br>
-• Total Environment for Next-Generation Airport Management Experimentation Platform Phase 1<br>
-• Optimising Terminal Airspace Operations under Varying TBO Scenarios<br>
+• <i>Total Environment for Next-Generation Airport Management Experimentation Platform Phase 1</i><br>
+• <i>Optimising Terminal Airspace Operations under Varying TBO Scenarios</i><br>
 2025–Present
 </div>
 
@@ -26,8 +26,8 @@ Projects:<br>
 <b><a href="https://sg.linkedin.com/in/darryl-teo" target="_blank">Darryl Teo</a></b><br>
 Research Fellow<br>
 Projects:<br>
-• Total Environment for Next-Generation Airport Management Experimentation Platform Phase 1<br>
-• Evaluating CONOPS for FF-ICE R1 in South-East Asia<br>
+• <i>Total Environment for Next-Generation Airport Management Experimentation Platform Phase 1</i><br>
+• <i>Evaluating CONOPS for FF-ICE R1 in South-East Asia</i><br>
 2025–Present
 </div>
 
@@ -35,8 +35,8 @@ Projects:<br>
 <b><a href="https://sg.linkedin.com/in/mingmei-li-b30b04a2" target="_blank">Mingmei Li</a></b><br>
 Research Fellow<br>
 Projects:<br>
-• Optimising Terminal Airspace Operations under Varying TBO Scenarios<br>
-• Airfield and Airspace Management<br>
+• <i>Optimising Terminal Airspace Operations under Varying TBO Scenarios</i><br>
+• <i>Airfield and Airspace Management</i><br>
 2022–Present
 </div>
 
@@ -44,8 +44,8 @@ Projects:<br>
 <b><a href="https://sg.linkedin.com/in/marcusignatiuskoh" target="_blank">Marcus Koh</a></b><br>
 Senior Research Assistant<br>
 Projects:<br>
-• Total Environment for Next-Generation Airport Management Experimentation Platform Phase 1<br>
-• Game-Based Learning in PATCO Training<br>
+• <i>Total Environment for Next-Generation Airport Management Experimentation Platform Phase 1</i><br>
+• <i>Game-Based Learning in PATCO Training</i><br>
 2024–Present
 </div>
 
@@ -53,7 +53,7 @@ Projects:<br>
 <b><a href="https://sg.linkedin.com/in/wang-weimeng" target="_blank">Weimeng Wang</a></b><br>
 Senior Research Assistant<br>
 Projects:<br>
-• Game-Based Learning in PATCO Training<br>
+• <i>Game-Based Learning in PATCO Training</i><br>
 2024–Present
 </div>
 
@@ -61,7 +61,7 @@ Projects:<br>
 <b>Amul Kumar</b><br>
 Senior Research Assistant<br>
 Projects:<br>
-• Game-Based Learning in PATCO Training<br>
+• <i>Game-Based Learning in PATCO Training</i><br>
 2024–Present
 </div>
 
@@ -69,8 +69,8 @@ Projects:<br>
 <b><a href="https://sg.linkedin.com/in/jordan-tay-a2750b145" target="_blank">Jordan Tay</a></b><br>
 Senior Research Assistant<br>
 Projects:<br>
-• Game-Based Learning in PATCO Training<br>
-• Airfield Management and Economics<br>
+• <i>Game-Based Learning in PATCO Training</i><br>
+• <i>Airfield Management and Economics</i><br>
 2021–Present
 </div>
 
@@ -78,7 +78,7 @@ Projects:<br>
 <b><a href="https://sg.linkedin.com/in/geneeliaw" target="_blank">Ge Nee</a></b><br>
 Research Officer<br>
 Projects:<br>
-• Total Environment for Next-Generation Airport Management Experimentation Platform Phase 1<br>
+• <i>Total Environment for Next-Generation Airport Management Experimentation Platform Phase 1</i><br>
 2025–Present
 </div>
 
@@ -86,8 +86,8 @@ Projects:<br>
 <b><a href="https://sg.linkedin.com/in/shuanyrn" target="_blank">Nicole Shuan</a></b><br>
 Research Officer<br>
 Projects:<br>
-• Total Environment for Next-Generation Airport Management Experimentation Platform Phase 1<br>
-• Optimising Terminal Airspace Operations under Varying TBO Scenarios<br>
+• <i>Total Environment for Next-Generation Airport Management Experimentation Platform Phase 1</i><br>
+• <i>Optimising Terminal Airspace Operations under Varying TBO Scenarios</i><br>
 2024–Present
 </div>
 
@@ -95,11 +95,12 @@ Projects:<br>
 <b>Sian Poh</b><br>
 Research Manager<br>
 Projects:<br>
-• Game-Based Learning in PATCO Training<br>
+• <i>Game-Based Learning in PATCO Training</i><br>
 2024–Present
 </div>
 
 </div>
+
 ---
 
 ## PhD Students
