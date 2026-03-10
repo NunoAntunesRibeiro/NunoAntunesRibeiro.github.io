@@ -18,6 +18,8 @@ Key contributions include:
 - Collection of a **real-world dataset of aircraft surface defects**, captured using drone imagery from a preserved aircraft with visible defects located in **Korat, Nakhon Ratchasima (Thailand)**
 - Demonstration of the feasibility of **low-cost inspection workflows using drone-based imaging combined with AI models**, supporting more efficient aircraft inspection processes
 
+This research contributes toward more efficient, scalable, and data-driven aircraft inspection processes.
+
 ## Selected Publications
 - [*Advances in Aircraft Skin Defect Detection Using Computer Vision: A Survey and Comparison of YOLOv9 and RT-DETR Performance*](https://doi.org/10.3390/aerospace12040356)  
   Suvittawat, N., Kurniawan, C., Datephanyawat, J., Tay, J., Liu, Z., Soh, D. W., & Ribeiro, N. A. (2025). *Aerospace.*
