@@ -1,5 +1,3 @@
-# Optimization of Storage Space Assignment in Airport Cargo Terminals
-
 ## Research Problem
 Air cargo terminals play a critical role in global logistics, handling large volumes of cargo that must be temporarily stored before loading onto aircraft or transported to their final destinations. With the continuous growth of air cargo demand, airport terminals face increasing pressure on available storage space.
 
