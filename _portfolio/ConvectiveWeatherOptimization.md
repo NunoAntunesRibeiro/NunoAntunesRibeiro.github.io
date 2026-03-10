@@ -17,26 +17,3 @@ Key contributions include:
 - A sequencing optimization algorithm that determines the **optimal arrival order and timing of aircraft** given the set of feasible trajectories generated in the previous step
 
 This integrated framework enables more efficient and safer management of aircraft operations during disruptive weather events.
-
-## Analytical Framework
-The proposed framework combines three key components:
-
-1. **Weather Prediction**  
-   Convolutional Neural Network (CNN) models generate short-term forecasts of convective weather probability in the terminal airspace.
-
-2. **Trajectory Generation**  
-   A multi-objective A\* search algorithm generates alternative aircraft trajectories that:
-   - minimize exposure to convective weather
-   - remain close to standard procedures when feasible
-   - avoid excessive increases in flight distance
-
-3. **Traffic Sequencing Optimization**  
-   An optimization model determines the optimal sequencing and scheduling of aircraft within the terminal airspace based on the set of feasible trajectories.
-
-## Expected Impact
-The proposed methods support more resilient terminal airspace operations by:
-
-- reducing delays during severe weather events
-- minimizing fuel consumption caused by inefficient rerouting
-- improving the safety of aircraft trajectories around convective weather
-- supporting decision-making for future **trajectory-based operations (TBO)** in air traffic management.
