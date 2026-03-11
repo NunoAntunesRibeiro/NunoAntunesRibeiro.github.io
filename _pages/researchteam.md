@@ -92,6 +92,14 @@ Projects:<br>
 </div>
 
 <div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
+<b><a href="https://www.linkedin.com/in/adharshasam/" target="_blank">Adharsha Sam</a></b><br>
+Research Officer<br>
+Projects:<br>
+• <i>Total Environment for Next-Generation Airport Management Experimentation Platform Phase 1</i><br>
+2025–Present
+</div>
+
+<div style="border:1px solid #ddd;padding:16px;border-radius:10px;">
 <b>Sian Poh</b><br>
 Research Manager<br>
 Projects:<br>
