@@ -1,3 +1,9 @@
+---
+title: "Optimization of Aircraft Routing and Trajectory Planning for Airline Operations"
+excerpt: ""
+collection: portfolio
+---
+
 ## Research Problem
 
 Airline schedules contain hundreds or thousands of flight legs that must be assigned to feasible **aircraft rotations**. These rotations must respect aircraft availability, airport continuity, maintenance requirements, and other operational constraints.
