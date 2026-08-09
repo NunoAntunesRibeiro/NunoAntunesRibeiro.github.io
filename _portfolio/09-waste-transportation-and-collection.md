@@ -1,3 +1,9 @@
+---
+title: "Optimization of Waste Transportation and Collection Systems"
+excerpt: ""
+collection: portfolio
+---
+
 ## Research Problem
 
 Municipal solid-waste systems require large volumes of material to be transported between collection areas, transfer facilities, treatment plants, and disposal locations.
