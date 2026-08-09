@@ -1,3 +1,9 @@
+---
+title: "Modeling and Assessment of Airport Capacity and Operational Bottlenecks"
+excerpt: ""
+collection: portfolio
+---
+
 ## Research Problem
 
 Airport capacity is not a single fixed number. The number of aircraft an airport can accommodate depends on runway configuration, traffic mix, separation requirements, weather, congestion, and the operational conditions prevailing at different times of the day.
