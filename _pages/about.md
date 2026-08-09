@@ -21,6 +21,54 @@ You can find my [CV](https://nunoantunesribeiro.github.io/files/CV_NunoAntunesRi
 
 <h3>News</h3>
 
+- **August 2026:** New paper published in *Transportation Research Part E*: ["Spatio-Temporal Weather and Airspace Graph Network (SWAG-Net) for Trajectory-Based ETA Prediction"](https://www.sciencedirect.com/science/article/pii/S1366554526003054).
+
+- **July 2026:** Asst. Prof. Nuno Ribeiro and PhD student Marcus Koh presented at the [29th ATRS World Conference](https://www.atrsworld.org/) in Beijing: “Data-driven Optimization of Aircraft Sequencing and Descent Trajectories for Fuel Efficiency in the Terminal Manoeuvring Area” and “A Vehicle Routing and Scheduling Approach to Airside Baggage Handling Operations”.
+
+- **June 2026:** The paper ["Semi-Automated Knowledge Engineering and Process Mapping for Total Airport Management"](https://arxiv.org/abs/2603.26076), co-authored by Darryl Teo, Adharsha Sam, Marcus Koh, Rakesh Nagi and Nuno Ribeiro, was presented at [FUSION 2026](https://www.ntnu.edu/fusion2026/) in Trondheim, Norway.
+
+- **May 2026:** New paper published in *Transportation Research Part E*: ["Hub Competition and Demand Modeling in Long-Haul Aviation Markets: A Forward-Looking Scenario-Based Game-Theoretical Approach"](https://www.sciencedirect.com/science/article/pii/S1366554526002334).
+
+- **January 2026:** New paper published in the *European Journal of Operational Research*: ["An Exact Method for Storage Space Assignment at Airport Cargo Terminal: A Temporal-Spatial Packing Problem"](https://www.sciencedirect.com/science/article/pii/S0377221726000755).
+
+- **January 2026:** Research Fellow Wayne Ng presented “Data-Driven Terminal Airspace Optimization with Environmental Considerations” at the [AAAI-26 Workshop on Artificial Intelligence for Air Transportation (AI4AT)](https://aaai.org/conference/aaai/aaai-26/workshops-program/) in Singapore and received the [Best Paper Award](https://www.sutd.edu.sg/achievements-listing/best-paper-award-at-the-40th-annual-aaai-conference-on-artificial-intelligence-aaai-26/).
+
+- **November 2025:** Asst. Prof. Nuno Ribeiro participated as a panellist at [Super Terminal Expo](https://www.superterminalexpo.com/airport-dialogues/) in Hong Kong in the roundtable “Rethinking Apron Efficiency for Faster Turnarounds”.
+
+- **November 2025:** Wayne Ng presented “An Optimization Approach for the Terminal Airspace Scheduling Problem” at the [65th AGIFORS Annual Symposium](https://www.agifors.org/Symp-Program-2025) in London and received the [Anna Valicek Silver Medal](https://agifors.org/PriorAwardWinners).
+
+- **November 2025:** Research Fellow Wayne Ng presented “Data-Driven Optimization of Aircraft Sequencing and Descent Trajectories for Fuel Efficiency in the Terminal Manoeuvring Area” at the [13th OpenSky Symposium](https://symposium.opensky-network.org/) in Norrköping, Sweden.
+
+- **October 2025:** Asst. Prof. Nuno Ribeiro and PhD student Marcus Koh presented four research works at the [2025 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual2025/) in Atlanta on terminal airspace scheduling, airport slot allocation, aircraft turnaround operations, and baggage and cargo transportation.
+
+- **October 2025:** The team received two awards from the INFORMS Air Transportation Section at the 2025 INFORMS Annual Meeting: [Best Paper Award and Best Student Presentation Award](https://www.sutd.edu.sg/achievements-listing/best-paper-award-and-best-student-presentation-award-at-2025-informs-annual-meeting/), awarded to Wayne Ng's work on terminal airspace scheduling and Marcus Koh's work on aircraft turnaround operations, respectively.
+
+- **October 2025:** Research Fellow Wayne Ng presented “Optimizing Aircraft Flows and Trajectories in the Terminal Airspace with Environmental Considerations” at the [Singapore Analytics & Operations Day](https://business.smu.edu.sg/disciplines/operations-management/research-events/conferences-and-workshops).
+
+- **September 2025:** New paper published in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*: ["A Lightweight Normalization-Free Architecture for Object Detection in High-Spatial-Resolution Remote Sensing Imagery"](https://doi.org/10.1109/JSTARS.2025.3609658).
+
+- **July 2025:** Asst. Prof. Nuno Ribeiro served as Air Transportation Cluster Chair at the [2025 INFORMS International Meeting](https://meetings.informs.org/wordpress/2025international/) in Singapore, organizing 11 sessions with 42 presentations. Nuno and members of his research group presented six works on airport capacity declaration, ASEAN air traffic flow management, terminal airspace optimization, convective weather, aircraft turnaround operations, and hub competition.
+
+- **July 2025:** Asst. Prof. Nuno Ribeiro and PhD students Wayne Ng and Darryl Teo presented research at the [28th ATRS World Conference](https://www.atrsworld.org/home-3) in Hong Kong, including “Modeling Demand Competition in Long-Haul Aviation Markets” and research on terminal airspace optimization.
+
+- **July 2025:** Asst. Prof. Nuno Ribeiro delivered an invited talk at the [Singapore Aviation Research and Technology Exchange Day (SAR-TED)](https://aais.org.sg/sar-ted/) entitled “From Airspace to Apron: Informing Decisions Through Analytics”.
+
+- **July 2025:** New paper published in *Mathematics*: ["Robust Small-Object Detection in Aerial Surveillance via Integrated Multi-Scale Probabilistic Framework"](https://www.mdpi.com/2227-7390/13/14/2303).
+
+- **April 2025:** New paper published in *Aerospace*: ["Advances in Aircraft Skin Defect Detection Using Computer Vision: A Survey and Comparison of YOLOv9 and RT-DETR Performance"](https://www.mdpi.com/2226-4310/12/4/356).
+
+- **March 2025:** Asst. Prof. Nuno Ribeiro visited [Tongji University](https://sem.tongji.edu.cn/semen/26021.html), [Nanjing University of Aeronautics and Astronautics](https://cca.nuaa.edu.cn/2025/0328/c4834a371128/page.htm), and [Northwestern Polytechnical University](https://som.nwpu.edu.cn/) in China, delivering seminars entitled “From Predictive to Prescriptive Analytics in Airport Capacity Management”.
+
+- **March 2025:** New paper published in *Computers & Operations Research*: ["A Novel Decision Support Framework for the Multi-Objective Aircraft Routing Problem"](https://doi.org/10.1016/j.cor.2025.107058).
+
+- **December 2024:** Two new papers published in *Transportation Research Part C*: ["Delay Predictive Analytics for Airport Capacity Management"](https://doi.org/10.1016/j.trc.2024.104947) and ["An Optimization Approach for the Terminal Airspace Scheduling Problem"](https://doi.org/10.1016/j.trc.2024.104856).
+
+- **November 2024:** Asst. Prof. Nuno Ribeiro delivered an invited talk at the EASA Artificial Intelligence Workshop for the Asian Region in Singapore entitled “Artificial Intelligence Applications in Aviation Analytics”.
+
+- **October 2024:** Asst. Prof. Nuno Ribeiro and PhD students Wayne Ng, Darryl Teo, Marcus Koh, and Jetanat Datephanyawat presented five research works at the [2024 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/) in Seattle, covering long-haul aviation markets, terminal airspace optimization, ASEAN air traffic management, aircraft turnaround operations, and convective weather.
+
+- **September 2024:** The paper “Terminal Maneuvering Area Design Tool: Translational Research in Aviation”, by Peter Jackson and Asst. Prof. Nuno Ribeiro, was presented at the [5th Asia Pacific Conference on Industrial Engineering and Operations Management](https://ieomsociety.org/tokyo2024/) in Tokyo, Japan.
+  
 - <b>July 2024:</b> Asst. Prof. Nuno Ribeiro promoted to Deputy Director of the [Aviation Studies Institute](https://asi.sutd.edu.sg/) in SUTD. With this new appointment, Nuno will add to his duties to assist the Director of ASI in strategic planning, decision-making, and overall management of the institute.
 
 - <b>July 2024:</b> PhD student Wayne Ng delivers a presentation at the [27th ATRS World Conference](https://www.atrs2024lisboa.pt/programme) in Lisbon, on "An Optimization Approach for Solving the Terminal Airspace Scheduling Problem"
