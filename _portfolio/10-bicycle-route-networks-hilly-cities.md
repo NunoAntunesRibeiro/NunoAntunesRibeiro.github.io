@@ -1,3 +1,9 @@
+---
+title: "Designing Bicycle Route Networks for Hilly Cities"
+excerpt: ""
+collection: portfolio
+---
+
 ## Research Problem
 
 Cycling can provide a low-cost and sustainable alternative to motorized urban transport, but **steep terrain can substantially reduce the accessibility of bicycle networks**.
