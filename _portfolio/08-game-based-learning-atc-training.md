@@ -1,3 +1,9 @@
+---
+title: "Game-Based Learning Systems for Air Traffic Controller Training"
+excerpt: ""
+collection: portfolio
+---
+
 ## Research Problem
 
 Air traffic controller training requires trainees to progress from learning aviation rules and procedures to applying them in **dynamic traffic situations under time pressure**.
