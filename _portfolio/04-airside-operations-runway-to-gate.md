@@ -1,3 +1,9 @@
+---
+title: "Optimization of Airside Operations from Runway to Gate and Gate to Runway"
+excerpt: ""
+collection: portfolio
+---
+
 ## Research Problem
 
 Aircraft do not operate independently once they land. From **runway exit to the gate**, and later from **gate departure to the runway**, aircraft movements interact with stands, taxiways, towing operations, ground vehicles, and other airport resources.
