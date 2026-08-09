@@ -1,3 +1,9 @@
+---
+title: "Automated Knowledge Engineering for Total Airport Management Systems"
+excerpt: ""
+collection: portfolio
+---
+
 ## Research Problem
 
 Airport operations are governed by extensive documentation describing procedures, responsibilities, operational rules, dependencies, and interactions between multiple stakeholders.
