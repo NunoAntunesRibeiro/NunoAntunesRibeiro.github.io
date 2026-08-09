@@ -1,3 +1,9 @@
+---
+title: "Remote Sensing for Detection of Aviation Infrastructure and Ground Objects"
+excerpt: ""
+collection: portfolio
+---
+
 ## Research Problem
 
 High-spatial-resolution aerial and remote-sensing imagery provides valuable information for monitoring airports and other large infrastructure systems. However, aviation-relevant objects such as aircraft, vehicles, personnel, and small ground targets may occupy only a very small fraction of an image.
