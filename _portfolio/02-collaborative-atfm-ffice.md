@@ -1,3 +1,9 @@
+---
+title: "Collaborative Air Traffic Flow Management using FF-ICE Information Sharing"
+excerpt: ""
+collection: portfolio
+---
+
 ## Research Problem
 
 Air Traffic Flow Management (ATFM) aims to balance traffic demand with available airport and airspace capacity before congestion results in excessive airborne delay and holding.
