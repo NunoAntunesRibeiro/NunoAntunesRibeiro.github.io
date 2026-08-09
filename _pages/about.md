@@ -23,6 +23,8 @@ You can find my [CV](https://nunoantunesribeiro.github.io/files/CV_NunoAntunesRi
 
 - **August 2026:** New paper published in *Transportation Research Part E*: ["Spatio-Temporal Weather and Airspace Graph Network (SWAG-Net) for Trajectory-Based ETA Prediction"](https://www.sciencedirect.com/science/article/pii/S1366554526003054).
 
+- **July 2026:** Asst. Prof. Nuno Ribeiro contributed to the [Airport Planning Programme](https://saa.caas.gov.sg/student/course/detail/AMS2601) at the Singapore Aviation Academy, led by Prof. Richard de Neufville, delivering three sessions on Airside Capacity, Delays, and Declared Capacity.
+
 - **July 2026:** Asst. Prof. Nuno Ribeiro and PhD student Marcus Koh presented at the [29th ATRS World Conference](https://www.atrsworld.org/) in Beijing: “Data-driven Optimization of Aircraft Sequencing and Descent Trajectories for Fuel Efficiency in the Terminal Manoeuvring Area” and “A Vehicle Routing and Scheduling Approach to Airside Baggage Handling Operations”.
 
 - **June 2026:** The paper ["Semi-Automated Knowledge Engineering and Process Mapping for Total Airport Management"](https://arxiv.org/abs/2603.26076), co-authored by Darryl Teo, Adharsha Sam, Marcus Koh, Rakesh Nagi and Nuno Ribeiro, was presented at [FUSION 2026](https://www.ntnu.edu/fusion2026/) in Trondheim, Norway.
