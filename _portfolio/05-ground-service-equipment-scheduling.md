@@ -1,3 +1,9 @@
+---
+title: "Optimization of Ground Service Equipment Scheduling in Airport Operations"
+excerpt: ""
+collection: portfolio
+---
+
 ## Research Problem
 
 Aircraft turnaround requires many ground-service activities to be completed within a short period, including baggage and cargo handling, catering, cleaning, servicing, and other aircraft-support tasks.
