@@ -27,11 +27,6 @@ Key contributions include:
 
 ## Research Funding
 
-- **National Research Foundation Singapore**  
-  *Total Environment for Next-Gen Airport Management Experimentation Platform (TEN-X)*  
-  Overall Project Award: SGD 6,920,853  
-  SUTD Work Package: SGD 1,158,307
-
 - **Civil Aviation Authority of Singapore**  
   *Airfield and Airspace Management*  
   Total Award: SGD 720,000
