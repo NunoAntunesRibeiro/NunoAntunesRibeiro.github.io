@@ -25,12 +25,6 @@ Key contributions include:
 - Integration of data-driven service-time estimates and process information into optimization models
 - Development of models suitable for increasingly **automated and autonomous ground-service operations**
 
-## Research Funding
-
-- **National Research Foundation Singapore**  
-  *Total Environment for Next-Gen Airport Management Experimentation Platform (TEN-X)*  
-  Overall Project Award: SGD 6,920,853  
-  SUTD Work Package: SGD 1,158,307
 
 ## Awards
 
